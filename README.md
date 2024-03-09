@@ -14,13 +14,13 @@ Aunque actualmente no cuenta con una seguridad robusta, el inicio de sesión est
 En futuras versiones, considera agregar autenticación y autorización más sólidas para proteger los datos de los usuarios.
 
 Tecnologías Utilizadas:
-Frontend:
-Desarrollado con Vanilla JavaScript, HTML y CSS.
-Backend:
-Implementado en Java con Spring Boot siguiendo una arquitectura API REST.
-La comunicación entre el frontend y el backend se realiza mediante APIs.
-Base de Datos:
-Se utiliza una base de datos relacional PostgreSQL para almacenar la información de los proyectos y tareas.
-Documentación:
-En el repositorio de Git, encontrarás el query para crear la estructura de la base de datos.
-También se incluye un diagrama relacional generado con StarUML para visualizar la relación entre las entidades.
+1. Frontend:
+   Desarrollado con Vanilla JavaScript, HTML y CSS.
+2. Backend:
+  Implementado en Java con Spring Boot siguiendo una arquitectura API REST.
+  La comunicación entre el frontend y el backend se realiza mediante APIs.
+3. Base de Datos:
+  Se utiliza una base de datos relacional PostgreSQL para almacenar la información de los proyectos y tareas.
+4. Documentación:
+  En el repositorio de Git, encontrarás el query para crear la estructura de la base de datos.
+  También se incluye un diagrama relacional generado con StarUML para visualizar la relación entre las entidades.
