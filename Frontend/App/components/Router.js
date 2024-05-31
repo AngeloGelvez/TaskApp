@@ -13,7 +13,7 @@ import { InfoProject } from "./InfoProject.js";
 export function Router() {
   let hash = location.hash;
   const $main = document.querySelector(".content");
-  const { id } = JSON.parse(localStorage.getItem("user"));
+  const { id } = JSON.parse(localStorage.getItem("user")) || 0;
   const  idProject  = localStorage.getItem("project");
   //console.log(hash);
 
