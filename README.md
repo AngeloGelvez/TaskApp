@@ -24,3 +24,7 @@ Tecnologías Utilizadas:
 4. Documentación:
   En el repositorio de Git, encontrarás el query para crear la estructura de la base de datos.
   También se incluye un diagrama relacional generado con StarUML para visualizar la relación entre las entidades.
+
+Imagen
+
+[![screencapture-127-0-0-1-5500-index-html-2024-06-21-13-42-57.png](https://i.postimg.cc/Yq2jdvYn/screencapture-127-0-0-1-5500-index-html-2024-06-21-13-42-57.png)](https://postimg.cc/23Jz68Hh)
